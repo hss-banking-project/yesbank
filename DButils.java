@@ -2,4 +2,4 @@ dbconnect(){
 ---
 }
 This will store db info
-this file contains db
+this file contains db info
